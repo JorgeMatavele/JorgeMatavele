@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JorgeMatavele
 - 👀 I’m interested in data science and ML 
-- 🌱 I’m currently working as Business Intelligence and with strong abilities in pyton and SQL
+- 🌱 I’m currently working as Business Intelligence analyst and with strong abilities in pyton and SQL
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can found me on jorgematavel10@gmail.com or +258874824101
 
